@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "title": "Продукт 1",
+    "category": "Категория 1",
+    "price": 100.0,
+    "images": [
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://leonardo.osnova.io/2bc77b95-e8b5-5f11-ab38-4a3ead0d9b67/-/preview/800x/",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png"
+    ],
+    "rating": 4.5,
+    "description": "Описание продукта 1"
+  },
+  {
+    "id": 2,
+    "title": "Продукт 2",
+    "category": "Категория 2",
+    "price": 150.0,
+    "images": [
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://leonardo.osnova.io/2bc77b95-e8b5-5f11-ab38-4a3ead0d9b67/-/preview/800x/",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png"
+    ],
+    "rating": 3.8,
+    "description": "Описание продукта 2"
+  },
+  {
+    "id": 3,
+    "title": "Продукт 3",
+    "category": "Категория 3",
+    "price": 200.0,
+    "images": [
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://leonardo.osnova.io/2bc77b95-e8b5-5f11-ab38-4a3ead0d9b67/-/preview/800x/",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png"
+    ],
+    "rating": 4.2,
+    "description": "Описание продукта 3"
+  },
+  {
+    "id": 4,
+    "title": "Продукт 4",
+    "category": "Категория 4",
+    "price": 250.0,
+    "images": [
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://leonardo.osnova.io/2bc77b95-e8b5-5f11-ab38-4a3ead0d9b67/-/preview/800x/",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png"
+    ],
+    "rating": 4.9,
+    "description": "Описание продукта 4"
+  },
+  {
+    "id": 5,
+    "title": "Продукт 5",
+    "category": "Категория 5",
+    "price": 300.0,
+    "images": [
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://leonardo.osnova.io/2bc77b95-e8b5-5f11-ab38-4a3ead0d9b67/-/preview/800x/",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png"
+    ],
+    "rating": 4.0,
+    "description": "Описание продукта 5"
+  },
+  {
+    "id": 6,
+    "title": "Продукт 6",
+    "category": "Категория 6",
+    "price": 350.0,
+    "images": [
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://leonardo.osnova.io/2bc77b95-e8b5-5f11-ab38-4a3ead0d9b67/-/preview/800x/",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png"
+    ],
+    "rating": 3.5,
+    "description": "Описание продукта 6"
+  },
+  {
+    "id": 7,
+    "title": "Продукт 7",
+    "category": "Категория 7",
+    "price": 400.0,
+    "images": [
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://leonardo.osnova.io/2bc77b95-e8b5-5f11-ab38-4a3ead0d9b67/-/preview/800x/",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png"
+    ],
+    "rating": 4.7,
+    "description": "Описание продукта 7"
+  },
+  {
+    "id": 8,
+    "title": "Продукт 8",
+    "category": "Категория 8",
+    "price": 450.0,
+    "images": [
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://leonardo.osnova.io/2bc77b95-e8b5-5f11-ab38-4a3ead0d9b67/-/preview/800x/",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png",
+      "https://csm51-mp.ru/local/templates/aspro-stroy/images/noimage_detail.png"
+    ],
+    "rating": 4.1,
+    "description": "Описание продукта 8"
+  }
+]
